@@ -1,0 +1,14 @@
+Package: com.taoxi.ccmoudlebg
+Name: CCMoudleBG
+Description: 为控制中心各模块独立设置图片、GIF 或视频背景，并支持模块级视频静音。
+Maintainer: Taoxi
+Author: Taoxi
+Homepage: https://github.com/22556565/CCMoudleBG
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
+Conflicts: com.test.tweak
+Replaces: com.test.tweak
+Provides: com.test.tweak
+Architecture: iphoneos-arm64
+Version: 0.0.13
+Installed-Size: 220
