@@ -1,0 +1,9 @@
+Package: com.peng.ccicons
+Name: 控制中心图标替换 (PengCCIcons)
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 控制中心模块图标/视频/GIF 替换插件，支持从相册选择素材，iOS 16 专用。作者：鹏gg
+Maintainer: 鹏gg <penggg@example.com>
+Author: 鹏gg
+Section: Tweaks
+Depends: firmware (>=16.0), ellekit, preferenceloader
