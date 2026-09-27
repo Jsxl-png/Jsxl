@@ -6,10 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: 鹏gg 的越狱插件源 (iOS 16)
-Date: Sun, 27 Sep 2026 00:52:07 UTC
+Date: Sun, 27 Sep 2026 16:53:18 UTC
 MD5Sum:
- 0f3c725c369e064b93cad0a7bced510a 718 Packages
- db8c407480edc8a22566548adf490aca 560 Packages.gz
+ 68b329da9893e34099c7d8ad5cb9c940 1 Packages
+ 57ee25a945fd740b7f7b392cca727674 30 Packages.gz
 SHA256:
- 48b37e93ef0fa7c94669bfb04b232a5109c05f45d6c86b7a6bf16ffcd3dce71f 718 Packages
- 1c95ca2df46d321ffc2a46a6ae0b65024f2d0ac2a9d1fa1bf72ff436b767c6f9 560 Packages.gz
+ 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b 1 Packages
+ 5698b3cf572c9bae4bdde3ec04605f7bf2313f5176b01217820acf106e47845b 30 Packages.gz
