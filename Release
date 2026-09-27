@@ -1,0 +1,14 @@
+Origin: PengGG
+Label: 鹏gg 插件源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: 鹏gg 的越狱插件源 (iOS 16)
+MD5Sum:
+ cef0f2d7087d4e7daaf1ade256c3d82a 588 Packages
+ 559d0a39f2dbc3cd991e9343b444e4a0 509 Packages.gz
+SHA256:
+ ca8d4e43059f8ad4bb38254874fb7cf4801042b7fbe3c7f724987f8096705070 588 Packages
+ 808d1971a952889a5f713b9745869202607f3c781dc2d6fe3ee2765f47e27610 509 Packages.gz
